@@ -23,3 +23,12 @@ A utilização do programa é focado em ser user-friendly, então não deixes qu
 - Clicar em "Load to Calculator" e seguir os passos.
 
 <img src= "https://cdn.numworks.com/372bf724.svg">
+
+<h2> Como Funciona?</h2>
+
+Para os curiosos que gostariam de saber como o programa funciona sem ter que procurar pelo código, aqui está uma breve explicação. O programa irá transformar a imagem em texto, usando base64, e após isso, vai substituir as letras que são iguais por números, para fins de otimização (a V1 não tem esta otimização, por isso sendo não recomendada). Por fim, a calculadora lê esse texto e apresenta os pixeis de acordo com a informação dada no texto.
+
+
+<h2> Informação Importante </h2>
+
+Além de ser um programador relativamente novo, entrarei no ensino secundário, então não sei quanto tempo terei para atualizar e manter este programa. Apesar disso, irei trazer novos programas, como paint, jogos, etc, para a calculadora. Obrigado por leres! :)
